@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164655592091",
+    "project_id": "flashchat-e90ac",
+    "storage_bucket": "flashchat-e90ac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164655592091:android:ffa0de4d17cf1c34080c3e",
+        "android_client_info": {
+          "package_name": "com.kunals.flashchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ7ZWrDgQ_SO67x8GSxHee00ARhhL-ni0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
